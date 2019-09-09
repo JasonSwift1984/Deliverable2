@@ -1,0 +1,7 @@
+C:\Users\j\source\repos\degbughk\degbughk\bin\Debug\degbughk.exe.config
+C:\Users\j\source\repos\degbughk\degbughk\bin\Debug\degbughk.exe
+C:\Users\j\source\repos\degbughk\degbughk\bin\Debug\degbughk.pdb
+C:\Users\j\source\repos\degbughk\degbughk\obj\Debug\degbughk.csprojAssemblyReference.cache
+C:\Users\j\source\repos\degbughk\degbughk\obj\Debug\degbughk.csproj.CoreCompileInputs.cache
+C:\Users\j\source\repos\degbughk\degbughk\obj\Debug\degbughk.exe
+C:\Users\j\source\repos\degbughk\degbughk\obj\Debug\degbughk.pdb
